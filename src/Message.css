@@ -8,8 +8,9 @@
   height: 50px;
   width: 50px;
   object-fit: contain;
+  border-radius: 15px;
 }
-*/ .message__info {
+.message__info {
   padding-left: 10px;
 }
 .message__timestamp {
